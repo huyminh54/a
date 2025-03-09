@@ -1,0 +1,19 @@
+{
+  "KetBan": {
+    "SoLuongBanBe": 32,
+    "ToiDaSoLuongKetBan": 100,
+    "Convert": true
+  },
+  "KichBanNuoi": {
+    "ThoiGianCho": 60,
+    "SoLuongHanhDong": 10
+  },
+  "ChangeInfor": {
+    "MatKhau": "enabled",
+    "RadioButton": 3
+  },
+  "General": {
+    "Version": "1.0",
+    "DebugMode": false
+  }
+}

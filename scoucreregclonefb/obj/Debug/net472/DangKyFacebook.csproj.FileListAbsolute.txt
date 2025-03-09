@@ -1,0 +1,59 @@
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.csproj.AssemblyReference.cache
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.applite.resources
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.FormChangeInfor.resources
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.Properties.Reso.resources
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.csproj.GenerateResource.cache
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.csproj.CoreCompileInputs.cache
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\DangKyFacebook.exe.config
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\DangKyFacebook.exe
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\DangKyFacebook.pdb
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\DeviceId.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\KAutoHelper.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\Newtonsoft.Json.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\ThuVienAndroid.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\TwoFactorAuth.Net.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\xNet.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MailKit.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MimeKit.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\Emgu.CV.World.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\BouncyCastle.Cryptography.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Formats.Asn1.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Threading.Tasks.Extensions.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Buffers.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Memory.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.ValueTuple.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\ThuVienAndroid.pdb
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\ThuVienAndroid.dll.config
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\KAutoHelper.pdb
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\KAutoHelper.dll.config
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\Newtonsoft.Json.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MailKit.pdb
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MailKit.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MailKit.dll.config
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MimeKit.pdb
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MimeKit.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\MimeKit.dll.config
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\Emgu.CV.World.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\BouncyCastle.Cryptography.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Formats.Asn1.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Threading.Tasks.Extensions.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Buffers.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Memory.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.ValueTuple.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\bin\Debug\net472\System.Numerics.Vectors.xml
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFa.B102692D.Up2Date
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.exe
+C:\Users\K07VN\Documents\TOOL\REG.FB.24_09_23 - Copy\scr\obj\Debug\net472\DangKyFacebook.pdb
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.csproj.AssemblyReference.cache
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.applite.resources
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.FormChangeInfor.resources
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.Properties.Reso.resources
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.csproj.GenerateResource.cache
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.GeneratedMSBuildEditorConfig.editorconfig
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.csproj.CoreCompileInputs.cache
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.exe
+D:\scoucreregclonefb\obj\Debug\net472\DangKyFacebook.pdb

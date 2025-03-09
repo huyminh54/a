@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "AToJIly9kAY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\K07VN\\Documents\\TOOL\\REG.FB.24_09_23 - Copy\\scr\\DangKyFacebook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\K07VN\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\K07VN\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.3\\microsoft.netframework.referenceassemblies.net472.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
